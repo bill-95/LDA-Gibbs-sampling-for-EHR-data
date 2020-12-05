@@ -2,11 +2,11 @@
 Implemetation of Gibbs sampling algorithm for learning a Latent Dirichlet Allocation topic model on EHR (ICD-codes) data.
 To run the code, clone repository, and run, `python lda_gibbs_sampling.py` .
 
-You'll need to the following packages:
+You'll need to install the following packages:
 - pandas - for loading the data
 - numpy - for efficient computations
 - seaborn - for visualizations
-- matplotlib for visualizations
+- matplotlib - for visualizations
 
 The implementation is based on the following article.
 
